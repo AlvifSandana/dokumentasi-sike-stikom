@@ -8,3 +8,4 @@ Berikut kebutuhan server untuk menjalankan sistem ini:
 - Ekstensi ***mbstring***
 - Ekstensi ***mysqlnd***
 - Ekstensi ***xml*** (default: **on**)
+- Docker (opsional)
