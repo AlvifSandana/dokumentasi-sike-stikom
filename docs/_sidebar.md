@@ -4,6 +4,13 @@
     - [Installation](getting-started/installation.md)
 - Usages
     - [Data Pendukung](usages/data-pendukung.md)
+        - [Tahun Angkatan](usages/data-pendukung/tahun-angkatan.md)
+        - [Jurusan](usages/data-pendukung/jurusan.md)
+        - [Semester](usages/data-pendukung/semester.md)
+        - [Sesi Kuliah](usages/data-pendukung/sesi-kuliah.md)
+        - [Paket](usages/data-pendukung/paket.md)
+        - [Diskon](usages/data-pendukung/diskon.md)
+        - [Metode Pembayaran](usages/data-pendukung/metode-pembayaran.md)
     - [Akun Admin](usages/akun-admin.md)
     - [App Settings](usages/app-settings.md)
     - [Backup / Restore DB](usages/backup-restore-db.md)
