@@ -30,5 +30,5 @@ php spark db:seed TestSeeder
 8. Atur VirtualHost (Apache) atau Server Blocks (Nginx) sesuai kebutuhan.
 9. Login dengan `username = admin@example.com` dan `password = 12345678` (credential ini dapat diubah pada file `app/Database/Seeds/UserSeeder.php`)
 
-## Windows
+## Windows (XAMPP)
 
