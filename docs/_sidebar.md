@@ -12,16 +12,13 @@
         - [Diskon](usages/data-pendukung/diskon.md)
         - [Metode Pembayaran](usages/data-pendukung/metode-pembayaran.md)
     - [Akun Admin](usages/akun-admin.md)
-    - [App Settings](usages/app-settings.md)
     - [Backup / Restore DB](usages/backup-restore-db.md)
-    - [Paket Tagihan](usages/paket-tagihan.md)
+    <!-- - [Paket Tagihan](usages/paket-tagihan.md)
     - [Item Paket Tagihan](usages/item-paket-tagihan.md)
-    - [Akun Pemasukan](usages/akun-pemasukan.md)
-    - [Akun Pengeluaran](usages/akun-pengeluaran.md)
     - [Pemasukan](usages/pemasukan.md)
     - [Pengeluaran](usages/pengeluaran.md)
     - [Pembayaran VA](usages/pembayaran-va.md)
-    - [Keuangan Mahasiswa](usages/keuangan-mahasiswa.md)
+    - [Keuangan Mahasiswa](usages/keuangan-mahasiswa.md) -->
 - Troubleshooting
     - []()
 - References
